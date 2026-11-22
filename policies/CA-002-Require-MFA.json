@@ -19,7 +19,7 @@
   },
   "grantControls": {
     "builtInControls": [
-      "block"
+      "mfa"
     ],
     "operator": "OR"
   },
